@@ -40,7 +40,7 @@
     "distube": "^5.0.1",
     "dotenv": "^16.4.7",
     "sodium-native": "^5.0.1",
-    "youtubei.js": "^13.3.0"
+    "youtubei.js": "^14.0.0"
   },
   "devDependencies": {
     "@types/node": "^22.14.1",
