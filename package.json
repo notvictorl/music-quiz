@@ -36,7 +36,7 @@
     "@distube/spotify": "^2.0.0",
     "@distube/youtube": "^1.0.0",
     "@distube/ytdl-core": "^4.16.8",
-    "discord.js": "^14.15.3",
+    "discord.js": "^14.21.0",
     "distube": "^5.0.1",
     "dotenv": "^16.4.7",
     "sodium-native": "^5.0.1",
@@ -44,7 +44,7 @@
   },
   "devDependencies": {
     "@types/node": "^22.14.1",
-    "discord.js": "^14.15.2",
+    "discord.js": "^14.21.0",
     "eslint": "^8.57.0",
     "eslint-config-distube": "^1.7.0",
     "prettier": "^3.3.0",
