@@ -43,7 +43,7 @@
     "youtubei.js": "^13.3.0"
   },
   "devDependencies": {
-    "@types/node": "^22.14.1",
+    "@types/node": "^24.0.10",
     "discord.js": "^14.15.2",
     "eslint": "^8.57.0",
     "eslint-config-distube": "^1.7.0",
