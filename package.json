@@ -39,7 +39,7 @@
     "discord.js": "^14.15.3",
     "distube": "^5.0.1",
     "dotenv": "^16.4.7",
-    "sodium-native": "^5.0.1",
+    "sodium-native": "^5.0.9",
     "youtubei.js": "^13.3.0"
   },
   "devDependencies": {
